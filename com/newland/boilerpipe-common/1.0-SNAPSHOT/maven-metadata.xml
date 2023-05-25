@@ -3,21 +3,21 @@
   <groupId>com.newland</groupId>
   <artifactId>boilerpipe-common</artifactId>
   <versioning>
-    <lastUpdated>20230525162442</lastUpdated>
+    <lastUpdated>20230525163734</lastUpdated>
     <snapshot>
-      <timestamp>20230525.162442</timestamp>
-      <buildNumber>20</buildNumber>
+      <timestamp>20230525.163734</timestamp>
+      <buildNumber>22</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20230525.162442-20</value>
-        <updated>20230525162442</updated>
+        <value>1.0-20230525.163734-22</value>
+        <updated>20230525163734</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20230525.162442-20</value>
-        <updated>20230525162442</updated>
+        <value>1.0-20230525.163734-22</value>
+        <updated>20230525163734</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
